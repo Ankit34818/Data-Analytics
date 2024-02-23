@@ -17,10 +17,9 @@ Tableau is a powerful data visualization software that allows users to create in
 # Gantt View 
 **3) Performed on "vgsales_01.csv" dataset** 
  - Max and min global sales is indicated using "labels"
- - 
-# Bar chart 
 ![Screenshot (169)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/8a37b01c-ba6a-4d97-966e-e1a36f106f25)
 
+# Bar chart and Line Chart
 **4) Performed on "vgsales_01.csv" dataset** 
 - Bar chart and line chart view on Dashboard
 ![Screenshot (161)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/65cce0a1-d1a3-41c0-b2cf-2a8b94d41fe3)
