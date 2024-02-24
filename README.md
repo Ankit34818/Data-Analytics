@@ -24,7 +24,7 @@ Tableau is a powerful data visualization software that allows users to create in
 - Bar chart and line chart view on Dashboard
 ![Screenshot (161)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/65cce0a1-d1a3-41c0-b2cf-2a8b94d41fe3)
 
-#Joins in Tableau 
+# Joins in Tableau (Performed on Tableau Joins File.xlsx )
 **1) Inner join -**
 - This type of join returns only the rows that have matching values in both tables.
   ![Screenshot (170)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/2d75a8da-1cd2-4626-82b8-aeaabe641697)
