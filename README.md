@@ -34,7 +34,7 @@ Tableau is a powerful data visualization software that allows users to create in
 ![Screenshot (171)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/346f8f7b-05b6-4207-8e82-d6b30eb40014)
 
 **3) Right join -**
--This join returns all rows from the right table and the matched rows from the left table. If there's no match, NULL values are returned for the columns from the left table.
+- This join returns all rows from the right table and the matched rows from the left table. If there's no match, NULL values are returned for the columns from the left table.
 ![Screenshot (172)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/5b799070-5270-4df3-bf68-19fba065c64a)
 
 **4) Full Join**
