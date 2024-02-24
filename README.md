@@ -24,3 +24,24 @@ Tableau is a powerful data visualization software that allows users to create in
 - Bar chart and line chart view on Dashboard
 ![Screenshot (161)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/65cce0a1-d1a3-41c0-b2cf-2a8b94d41fe3)
 
+#Joins in Tableau 
+**1) Inner join -**
+- This type of join returns only the rows that have matching values in both tables.
+  ![Screenshot (170)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/2d75a8da-1cd2-4626-82b8-aeaabe641697)
+  
+**2) Left Join -**
+- This join returns all rows from the left table and the matched rows from the right table. If there's no match, NULL values are returned for the columns from the right table.
+![Screenshot (171)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/346f8f7b-05b6-4207-8e82-d6b30eb40014)
+
+**3) Right join -**
+-This join returns all rows from the right table and the matched rows from the left table. If there's no match, NULL values are returned for the columns from the left table.
+![Screenshot (172)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/5b799070-5270-4df3-bf68-19fba065c64a)
+
+**4) Full Join**
+- This join returns all rows when there is a match in either the left or right table. If there's no match, NULL values are returned for the columns from the table that lacks a matching row.
+![Screenshot (173)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/a4ffa6c1-6618-45dc-a549-c88ecb22c93b)
+
+
+
+
+
