@@ -41,6 +41,9 @@ Tableau is a powerful data visualization software that allows users to create in
 - This join returns all rows when there is a match in either the left or right table. If there's no match, NULL values are returned for the columns from the table that lacks a matching row.
 ![Screenshot (173)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/a4ffa6c1-6618-45dc-a549-c88ecb22c93b)
 
+![Screenshot (174)](https://github.com/Ankit34818/Data-Analytics/assets/109851006/ce29e3ec-146a-4c43-8ddd-95107a828380)
+
+
 
 
 
